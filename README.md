@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# gallery-app
-create a page that has ListView where the images will be displayed
-=======
-# images_pick
+# Gallery App
 
-A new Flutter project.
+## Description
+This project aims to create a page that has a ListView where the images will be displayed. 
 
-## Getting Started
+## Features
+- Display images in a ListView
+- Supports multiple image formats
+- Support gallery and camera options
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c391383 (Creating gallery app)
+## Packages Used:
+  image_picker: ^1.1.2
+  permission_handler: ^11.3.1
