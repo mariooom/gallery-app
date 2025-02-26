@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAgSSZc0CGGpUkasJUMEccSAvG7T0dpYI8',
+    apiKey: '',
     appId: '1:600631183383:web:2ad6d04e338276ccb4b452',
-    messagingSenderId: '600631183383',
+    messagingSenderId: '',
     projectId: 'gallery-ac534',
-    authDomain: 'gallery-ac534.firebaseapp.com',
-    storageBucket: 'gallery-ac534.firebasestorage.app',
+    authDomain: '',
+    storageBucket: '',
     measurementId: 'G-YNFFCM0BVL',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBS6i9PFWFjCVg8i3Yy0m2c9B6rugcYw24',
+    apiKey: '',
     appId: '1:600631183383:android:ef50b109e9bc5dedb4b452',
-    messagingSenderId: '600631183383',
+    messagingSenderId: '',
     projectId: 'gallery-ac534',
-    storageBucket: 'gallery-ac534.firebasestorage.app',
+    storageBucket: '',
   );
 }
